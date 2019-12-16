@@ -1,5 +1,6 @@
-.sass-cache/
+_site
+.sass-cache
 .jekyll-metadata
-node_modules
-.vscode
-_site/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
