@@ -1,17 +1,17 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
+title: hasi' blog
+description: '정리용 블로그'
+url: 'https://hasihime.github.io/hasi-blog/'
+baseurl: '/hasi-blog'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
+  name: 'SeokBin Oh'
+  email: osb330@naver.com
+  twitter_username: hasihime
   facebook_username: joshgerdes
-  github_username:  joshgerdes
+  github_username:  hasihime
   linkedin_username:  joshgerdes
 
 defaults:
