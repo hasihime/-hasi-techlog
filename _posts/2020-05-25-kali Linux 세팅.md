@@ -10,7 +10,7 @@ tags: [kali]
 <hr>
 최근에 리버싱과 포렌식을 전문으로 한 지인과 이야기를 하는 도중 보안과 관련되서 재미있는 이야기를 들었다. 보안에 있어서 잔머리가 있는 사람들이 잘 한다고 말이다.
 
-<img src="https://hasihime.github.io/hasi-blog/images/img/kali/200525_001.png"><br>
+<img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200525_001.png"><br>
   
 >부르트포스에 있어서 2의 n승을 다 계산한다고..?
 >
@@ -21,13 +21,13 @@ tags: [kali]
 
 그리고선 이어진 대화
 
-<img src="https://hasihime.github.io/hasi-blog/images/img/kali/200525_002.png"><br>
+<img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200525_002.png"><br>
 
 보안 공격에 있어서 정해진 해답이 없으니 공격자든 방어자든 들고 있는 패가 많다면 공격, 대응을 하는데 유리하다는 점이다.
 
-<img src="https://hasihime.github.io/hasi-blog/images/img/kali/200525_003.png">
+<img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200525_003.png">
 
-<img src="https://hasihime.github.io/hasi-blog/images/img/kali/200525_004.png"><br>
+<img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200525_004.png"><br>
 
 개인적으로 IDS쪽 보안에 관심이 있는데 이를 분석하는 툴도 다양하게 있어서 이를 활용하면 도움이 될 것이라고 했고 적극적으로 Kali를 사용해보라고 권해주셨다.
 
