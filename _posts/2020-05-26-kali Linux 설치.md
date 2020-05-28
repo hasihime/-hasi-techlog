@@ -17,35 +17,35 @@ tags: [kali]
 해당 링크에 들어가서 64bit 두번째 파일을 다운받아준다.
 
 
-<img src="https://github.com/hasihime/hasi-techlog/blob/master/images/img/kali/200526/200525_005.png">
+<img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_005.png">
 <br>
-<img src="https://github.com/hasihime/hasi-techlog/blob/master/images/img/kali/200526/200525_006.png">
+<img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_006.png">
 <br>
-<img src="https://github.com/hasihime/hasi-techlog/blob/master/images/img/kali/200526/200525_007.png">
+<img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_007.png">
 <br>
-<img src="https://github.com/hasihime/hasi-techlog/blob/master/images/img/kali/200526/200525_008.png">
+<img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_008.png">
 <br>
-<img src="https://github.com/hasihime/hasi-techlog/blob/master/images/img/kali/200526/200525_009.png">
+<img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_009.png">
 <br>
-<img src="https://github.com/hasihime/hasi-techlog/blob/master/images/img/kali/200526/200525_010.png">
+<img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_010.png">
 <br>
-<img src="https://github.com/hasihime/hasi-techlog/blob/master/images/img/kali/200526/200525_011.png">
+<img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_011.png">
 <br>
-<img src="https://github.com/hasihime/hasi-techlog/blob/master/images/img/kali/200526/200525_012.png">
+<img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_012.png">
 <br>
-<img src="https://github.com/hasihime/hasi-techlog/blob/master/images/img/kali/200526/200525_013.png">
+<img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_013.png">
 <br>
-<img src="https://github.com/hasihime/hasi-techlog/blob/master/images/img/kali/200526/200525_014.png">
+<img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_014.png">
 <br>
-<img src="https://github.com/hasihime/hasi-techlog/blob/master/images/img/kali/200526/200525_015.png">
+<img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_015.png">
 <br>
-<img src="https://github.com/hasihime/hasi-techlog/blob/master/images/img/kali/200526/200525_016.png">
+<img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_016.png">
 <br>
-<img src="https://github.com/hasihime/hasi-techlog/blob/master/images/img/kali/200526/200525_017.png">
+<img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_017.png">
 <br>
-<img src="https://github.com/hasihime/hasi-techlog/blob/master/images/img/kali/200526/200525_018.png">
+<img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_018.png">
 <br>
-<img src="https://github.com/hasihime/hasi-techlog/blob/master/images/img/kali/200526/200525_019.png">
+<img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_019.png">
 
 
 
