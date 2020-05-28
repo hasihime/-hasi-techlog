@@ -12,11 +12,45 @@ tags: [kali]
 
 우선은 Kali Linux ISO를 다운받아주자. 2020년 5월 기준 최신 릴리즈 버전은  2020.2 버전이다.
 
-> [https://www.kali.org/downloads/]
+> (다운로드 링크)[https://www.kali.org/downloads/]
 
 해당 링크에 들어가서 64bit 두번째 파일을 다운받아준다.
 
 
+<img src="https://github.com/hasihime/hasi-techlog/blob/master/images/img/kali/200526/200525_005.png">
+<br>
+<img src="https://github.com/hasihime/hasi-techlog/blob/master/images/img/kali/200526/200525_006.png">
+<br>
+<img src="https://github.com/hasihime/hasi-techlog/blob/master/images/img/kali/200526/200525_007.png">
+<br>
+<img src="https://github.com/hasihime/hasi-techlog/blob/master/images/img/kali/200526/200525_008.png">
+<br>
+<img src="https://github.com/hasihime/hasi-techlog/blob/master/images/img/kali/200526/200525_009.png">
+<br>
+<img src="https://github.com/hasihime/hasi-techlog/blob/master/images/img/kali/200526/200525_010.png">
+<br>
+<img src="https://github.com/hasihime/hasi-techlog/blob/master/images/img/kali/200526/200525_011.png">
+<br>
+<img src="https://github.com/hasihime/hasi-techlog/blob/master/images/img/kali/200526/200525_012.png">
+<br>
+<img src="https://github.com/hasihime/hasi-techlog/blob/master/images/img/kali/200526/200525_013.png">
+<br>
+<img src="https://github.com/hasihime/hasi-techlog/blob/master/images/img/kali/200526/200525_014.png">
+<br>
+<img src="https://github.com/hasihime/hasi-techlog/blob/master/images/img/kali/200526/200525_015.png">
+<br>
+<img src="https://github.com/hasihime/hasi-techlog/blob/master/images/img/kali/200526/200525_016.png">
+<br>
+<img src="https://github.com/hasihime/hasi-techlog/blob/master/images/img/kali/200526/200525_017.png">
+<br>
+<img src="https://github.com/hasihime/hasi-techlog/blob/master/images/img/kali/200526/200525_018.png">
+<br>
+<img src="https://github.com/hasihime/hasi-techlog/blob/master/images/img/kali/200526/200525_019.png">
+
+
+
+
+추가 컴포넌트부터 네트워크 설정까지 마무리 된다.
 
 ### Kali Linux의 Root권한 얻기.
 
