@@ -85,8 +85,3 @@ tags: [kali]
 <br>
 추가 컴포넌트부터 네트워크 설정까지 마무리 된다.
 
-### Kali Linux의 Root권한 얻기.
-
-> https://www.kali.org/docs/policy/kali-linux-user-policy/
-
-2020.1 버전으로 Kali의 root계정을 그대로 쓰는게 불가능하고 Sudo를 이용하거나 pkexec라는 명령어를 사용해야 한다.
