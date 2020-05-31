@@ -15,6 +15,33 @@ tags: [kali]
 <br>
 추가 컴포넌트부터 네트워크 설정까지 마무리 된다.
 
+
+<img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_021.png">
+<br>
+
+<img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_022.png">
+<br>
+
+<img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_023.png">
+<br>
+
+<img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_024.png">
+<br>
+
+<img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_025.png">
+<br>
+<img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_026.png">
+<br>
+<img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_027.png">
+<br>
+<img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_028.png">
+<br>
+<img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_029.png">
+<br>
+<img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_030.png">
+<br>
+<img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_031.png">
+<br>
 ### Kali Linux의 Root권한 얻기.
 
 > https://www.kali.org/docs/policy/kali-linux-user-policy/
