@@ -18,8 +18,12 @@ tags: [kali]
 
 <img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_021.png">
 <br>
+우선 설치할 때 넣지 않았던 ISO 파일을 넣어준다. Virtual Machine Settings - CD/DVD (IDE)에서 오른쪽 아래 Use ISO Image file에서 다운받았던 Kali ISO를 지정해주자.
+<br>
 
 <img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_022.png">
+<br>
+그리고 가상머신을 시작해주면 다음과 같은 초기화면이 나온다. 해당화면에서 아래 방향키를 눌러 5번째 Graphical Install에서 엔터키를 눌러주자
 <br>
 
 <img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_023.png">
