@@ -46,6 +46,8 @@ tags: [kali]
 <br>
 <img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_031.png">
 <br>
+<img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_032.png">
+<br>
 ### Kali Linux의 Root권한 얻기.
 
 > https://www.kali.org/docs/policy/kali-linux-user-policy/
