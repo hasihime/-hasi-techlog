@@ -32,7 +32,8 @@ tags: [kali]
 
 <img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_024.png">
 <br>
-
+다음은 지역 설정으로 시간대 설정이 필요한 작업이므로 대한민국을 찾아서 클릭.
+<br>
 <img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_025.png">
 <br>
 <img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_026.png">
