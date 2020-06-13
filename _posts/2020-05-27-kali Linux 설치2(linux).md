@@ -28,6 +28,7 @@ tags: [kali]
 
 <img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_023.png">
 <br>
+언어 설정은 한국어로 하자. 영어가 자신있으면 영어로 해도 무관하다. 
 
 <img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_024.png">
 <br>
