@@ -36,9 +36,15 @@ tags: [kali]
 <br>
 <img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_025.png">
 <br>
+키보드 설정은 한국어로 클릭.
+<br>
 <img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_026.png">
 <br>
+계속을 눌러준다. 그러면 진행이 되고 있다가 네트워크 설정에 실패한다.
+<br>
 <img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_027.png">
+<br>
+아마 브릿지로 설정하면 네트워크 자동 설정에 실패했다고 나올것이다. 당황하지 않고 계속을 눌러주자.
 <br>
 <img src="https://hasihime.github.io/hasi-techlog/images/img/kali/200526/200525_028.png">
 <br>
